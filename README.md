@@ -14,8 +14,9 @@ applications, funded amounts, repayment behavior, and risk profiling.
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 ## 📁 Files
-- `Bank_Loan_Analysis.ipynb` — Main notebook
-- `financial_loan.xlsx` — Dataset
+| [Bank Loan Analysis.ipynb](Bank%20Loan%20Analysis.ipynb) | Main analysis notebook |
+| [financial_loan.xlsx](financial_loan.xlsx) | Raw dataset |
+| [Bank Loan Analysis.pdf](Bank%20Loan%20Analysis.pdf) | PDF report |
 
 ## 📈 Analysis Covers
 - Monthly trends (funded, received, applications)
@@ -24,3 +25,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - Employment length impact
 - Loan purpose distribution
 - Home ownership segmentation
+
+## 👤 Author
+**Aditya Kumar**  
+Data Analyst | [GitHub](https://github.com/adityak024)
