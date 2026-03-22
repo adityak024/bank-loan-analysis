@@ -14,9 +14,9 @@ applications, funded amounts, repayment behavior, and risk profiling.
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 ## 📁 Files
-| [Bank Loan Analysis.ipynb](Bank%20Loan%20Analysis.ipynb) | Main analysis notebook |
-| [financial_loan.xlsx](financial_loan.xlsx) | Raw dataset |
-| [Bank Loan Analysis.pdf](Bank%20Loan%20Analysis.pdf) | PDF report |
+- | [Bank Loan Analysis.ipynb](Bank%20Loan%20Analysis.ipynb) | Main analysis notebook |
+- | [financial_loan.xlsx](financial_loan.xlsx) | Raw dataset |
+- | [Bank Loan Analysis.pdf](Bank%20Loan%20Analysis.pdf) | PDF report |
 
 ## 📈 Analysis Covers
 - Monthly trends (funded, received, applications)
